@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JogoDamas_V1._001.Model_Jogador">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAGAACAAAAAAAQAAQAAAAgAIICACAAAAAAUAAIA=</HashCode>
+      <FileName>Model_Jogador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JogoDamas_V1._001.Model_Jogo">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAQBAAAAAAIRAAAAAABAAAAAE=</HashCode>
+      <FileName>Model_Jogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JogoDamas_V1._001.Model_Tabuleiro">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAABAAAAAAAAACAAAAAAAAABAAAAAAAAAAAQA=</HashCode>
+      <FileName>Model_Tabuleiro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JogoDamas_V1._001.Model_Pedras">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQIAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model_Pedras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JogoDamas_V1._001.Model_Ponto">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Model_Ponto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
